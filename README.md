@@ -1,1 +1,1 @@
-# https-github.com-cdrx-rancher-gitlab-deploy
+# https://github.com/xmotomatt/rancher-gitlab-deploy
